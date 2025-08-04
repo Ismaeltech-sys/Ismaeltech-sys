@@ -13,13 +13,28 @@
 
 - 📄 Conoce mas sobre mi experiencia [https://cv.ismaeltech.cc](https://cv.ismaeltech.cc)
 
+<h3 align="center">Algunos de mis proyectos que puede que te sirvan</h3>
+<p align="center">
+
+- [https://recursos.ismaeltech.cc](https://recursos.ismaeltech.cc) -- ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
+
+- [https://it-tools.ismaeltech.cc](https://it-tools.ismaeltech.cc) -- ![](./Media/it-tools.png)
+
+- [https://tools.ismaeltech.cc/](https://tools.ismaeltech.cc/) -- ![](./Media/omni-tools-full.webp)
+
+</p>
+
+<p align="center">
+🛠Seguiré añadiendo más proyectos🧰
+</p>
+
 <h3 align="left">Conecta a través de:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ismael-perez-moron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-perez-moron/" height="30" width="40" /></a>
 </p>
 
 
-<h3 align="left">Lenguages and Tools:</h3>
+<h3 align="left">Lenguajes y Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
