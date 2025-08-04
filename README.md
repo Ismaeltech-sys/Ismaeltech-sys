@@ -21,4 +21,4 @@ Portfolio<h1 align="center">Hi 👋, Soy Ismael Pérez</h1>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/paypal.me/iperezmoron"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paypal.me/iperezmoron" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaeltech-sys&show_icons=true&locale=en&layout=compact" alt="ismaeltech-sys" /></p>
+
