@@ -19,9 +19,61 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> </p>
-
-![](./Media/ISMAELCLOUD.jpeg)
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="https://it-tools.tech/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/it-icon.svg" alt="it-tools" width="40" height="40"/>
+  </a>
+  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/yaml-file-icon.svg" alt="yaml" width="40" height="40"/>
+  </a>
+  <a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
+    <img src="https://worldvectorlogo.com/logos/portainer.svg" alt="portainer" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_logo_without_workmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_of_WireGuard.svg" alt="wireguard" width="40" height="40"/>
+  </a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" alt="debian" width="40" height="40"/>
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="40" height="40"/>
+  </a>
+  <a href="https://nginxproxymanager.com/" target="_blank" rel="noreferrer">
+    <img src="https://dashboardicons.com/icons/nginx-proxy-manager.svg" alt="nginx proxy manager" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Wazuh-Logo-2022.png" alt="wazuh" width="40" height="40"/>
+  </a>
+  <a href="https://suricata.io/" target="_blank" rel="noreferrer">
+    <img src="https://suricata.io/wp-content/uploads/2021/10/suricata-logo.svg" alt="suricata" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="google" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/paypal.me/iperezmoron"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paypal.me/iperezmoron" /></a></p><br><br>
+
+![](./Media/ISMAELCLOUD.jpeg)
