@@ -67,10 +67,10 @@
     <img src="https://api.iconify.design/logos:microsoft-icon.svg" alt="Microsoft Power Automate" width="40" height="40"/>
   </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/terraform.svg" alt="Terraform" width="40" height="40"/>
+    <img src="https://api.iconify.design/logos:terraform-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/ansible.svg" alt="Ansible" width="40" height="40"/>
+    <img src="https://api.iconify.design/logos:ansible.svg" alt="Ansible" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/>
