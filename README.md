@@ -13,42 +13,42 @@
 
 - 📄 Conoce mas sobre mi experiencia [https://cv.ismaeltech.cc](https://cv.ismaeltech.cc)
 
-<h3 align="center">Algunos de mis proyectos que puede que te sirvan</h3>
+<h2 align="center">Algunos de mis proyectos que puede que te sirvan</h2>
 
-<p align="center">
+<p align="left">
 
-<h4 align="center">Más de 500 recursos relacionados con DevOps, Web Developers, Formación, Inteligencia Artificial, Productividad, Ciberseguridad, Protección de datos  y más tools o webs de interes que pueden servir de manera práctica en el día a día</h4>
+<h3 align="left">Más de 500 recursos relacionados con DevOps, Web Developers, Formación, Inteligencia Artificial, Productividad, Ciberseguridad, Protección de datos  y más tools o webs de interes que pueden servir de manera práctica en el día a día</h3>
 
 - [https://recursos.ismaeltech.cc](https://recursos.ismaeltech.cc) ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
 
 </p>
 
-<h4 align="center">Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h4>
+<h3 align="left">Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h3>
 
-<p align="center">
+<p align="left">
 
 - [https://it-tools.ismaeltech.cc](https://it-tools.ismaeltech.cc) ![](./Media/it-tools.png)
 
 </p>
 
-<h4 align="center">Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos</h4>
+<h3 align="left">Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos</h3>
 
-<p align="center">
+<p align="left">
 
 - [https://tools.ismaeltech.cc/](https://tools.ismaeltech.cc/) ![](./Media/omni-tools-full.png)
 
 </p>
 
-<h4 align="center">Para los casos que necesites enviar datos personales o notas de manera encriptada</h4>
+<h3 align="left">Para los casos que necesites enviar datos personales o notas de manera encriptada</h3>
 
-<p align="center">
+<p align="left">
 
 - [https://enclosed.ismaeltech.cc/](https://enclosed.ismaeltech.cc/) ![](./Media/icon-light.png)
 
 </p>
 
 <p align="center">
-🛠Seguiré añadiendo más proyectos🧰
+<h4 align="center">🛠🧠Seguiré añadiendo más proyectos🧠🧰</h4>  
 </p>
 
 <h3 align="left">Conecta a través de:</h3>
