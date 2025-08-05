@@ -23,27 +23,43 @@
 
 </p>
 
-<h3 align="left">Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h3>
+<h3 align="left">it-tools. Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h3>
 
 <p align="left">
 
 - [https://it-tools.ismaeltech.cc](https://it-tools.ismaeltech.cc) ![](./Media/it-tools.png)
 
+- Del creador https://github.com/CorentinTh/it-tools
+
 </p>
 
-<h3 align="left">Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos</h3>
+<h3 align="left">Omnitools. Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos</h3>
 
 <p align="left">
 
 - [https://tools.ismaeltech.cc/](https://tools.ismaeltech.cc/) ![](./Media/omni-tools-full.png)
 
+- Del creador https://github.com/iib0011/omni-tools
+
 </p>
 
-<h3 align="left">Para los casos que necesites enviar datos personales o notas de manera encriptada</h3>
+<h3 align="left">Enclosed. Para los casos que necesites enviar datos personales o notas de manera encriptada</h3>
 
 <p align="left">
 
 - [https://enclosed.ismaeltech.cc/](https://enclosed.ismaeltech.cc/) ![](./Media/icon-light.png)
+
+- Del creador https://github.com/CorentinTh/enclosed
+
+</p>
+
+<h3 align="left">Excalidraw. Potente herramienta para crear presentaciones. Importa tus librerías y a crear</h3>
+
+<p align="left">
+
+- [https://draw.ismaeltech.cc/](https://draw.ismaeltech.cc/) ![](./Media/draw.svg)
+
+- Del creador https://github.com/excalidraw/excalidraw
 
 </p>
 
