@@ -194,7 +194,10 @@
 
 ---
 
-Disponible para colaborar, crear y crecer en proyectos o ideas en las que pueda aportar mis conocimientos.
+Disponible para crear, colaborar y crecer en proyectos o ideas en las que pueda aportar mis conocimientos.
+
+<br>
+
 Gracias por visitar mi perfil.
 
 ---
