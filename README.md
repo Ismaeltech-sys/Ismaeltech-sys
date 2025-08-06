@@ -15,7 +15,7 @@
 ***
 
 <p align="left">
-<h3 align="left">Más de 500 recursos relacionados con DevOps, Web Developers, Formación, Inteligencia Artificial, Productividad, Ciberseguridad, Protección de datos  y más tools o webs de interes que pueden servir de manera práctica en el día a día</h3>
+<h3 align="left">🛠️ Más de **500 recursos** relacionados con **DevOps**, **Web Developers**, **Formación**, **Inteligencia Artificial**, **Productividad**, **Ciberseguridad**, **Protección de datos**  y **más tools** o webs de interes que pueden servir de manera práctica en el día a día. 🛠️</h3>
 
 - [https://recursos.ismaeltech.cc](https://recursos.ismaeltech.cc) ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
 
@@ -24,8 +24,7 @@
 
 ***
 
-<br>
-<h3 align="left">IT-Tools. Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h3>
+<h3 align="left">🛠️ **IT-Tools**. Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h3>
 
 <p align="left">
 
@@ -38,8 +37,7 @@
 
 ***
 
-<br>
-<h3 align="left">Omnitools. Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos.</h3>
+<h3 align="left">🛠️ **Omnitools**. Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos.</h3>
 
 <p align="left">
 
@@ -52,8 +50,7 @@
 
 ***
 
-<br>
-<h3 align="left">Enclosed. Para los casos que necesites enviar datos personales o notas de manera encriptada.</h3>
+<h3 align="left">🔒 **Enclosed**. Para los casos que necesites enviar datos personales o notas de manera encriptada.</h3>
 
 <p align="left">
 
@@ -66,8 +63,7 @@
 
 ***
 
-<br>
-<h3 align="left">Excalidraw. Potente herramienta para crear presentaciones. Importa tus librerías y a crear.</h3>
+<h3 align="left">🖼🖌 **Excalidraw**. Potente herramienta para crear presentaciones. Importa tus librerías y a crear.</h3>
 
 <p align="left">
 
@@ -81,13 +77,13 @@
 
 ***
 
-<h3 align="center">🛠🧠Seguiré añadiendo más proyectos🧠🧰</h3>  
+<h4 align="center">🛠🧠 Seguiré añadiendo más herramientas y proyectos 🧠🧰</h4>  
 
 ***
 
 <br>
 <br>
-<h3 align="left">Lenguajes y Tools:</h3>
+<h3 align="left">🛠️ Tecnologías y herramientas</h3>
 
 ***
 
@@ -165,8 +161,10 @@
 ***
 
 <p align="left">
+<h3 aling=left>💻 Sobre mí</h3>
 
 - 🌱 Actualmente aprendiendo sobre las nuevas tecnologías, todo lo relacionado con el mundo DevOps y siempre formándome para formar parte de nuevos proyectos.
+- 🤖 En estos momentos realizando un Bootcam sobre Inteligencia Artificial.
 - 👨‍💻 Todos mis proyectos están disponibles en [Mi portal web](https://cv.ismaeltech.cc).
 - 📄 Conoce mas sobre mi experiencia [Mi CV](https://cv.ismaeltech.cc).
 - 📫 ¿Colaboramos?.
@@ -180,11 +178,11 @@
 
 ---
 
-Disponible para crear, colaborar y crecer en proyectos o ideas en las que pueda aportar mis conocimientos.
+Disponible para crear, colaborar y crecer en proyectos o ideas en las que pueda aportar mis conocimientos. 🤝 🌱 
 
 <br>
 
-Gracias por visitar mi perfil.
+Gracias por visitar mi perfil. ✋ 
 
 ---
 </p>
