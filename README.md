@@ -177,12 +177,10 @@
 
 <br>
 <br>
+
 - 🌱 Actualmente aprendiendo sobre las nuevas tecnologías, todo lo relacionado con el mundo DevOps y siempre formándome para formar parte de nuevos proyectos.
-<br>
 - 👨‍💻 Todos mis proyectos están disponibles en [Mi portal web](https://cv.ismaeltech.cc).
-<br>
 - 📄 Conoce mas sobre mi experiencia [Mi CV](https://cv.ismaeltech.cc).
-<br>
 - 📫 ¿Colaboramos?.
 
       hola@ismaeltech.cc  
