@@ -14,64 +14,50 @@
 
 ***
 
-<p align="left">
-<h3 align="left">🛠️ Más de **500 recursos** relacionados con **DevOps**, **Web Developers**, **Formación**, **Inteligencia Artificial**, **Productividad**, **Ciberseguridad**, **Protección de datos**  y **más tools** o webs de interes que pueden servir de manera práctica en el día a día. 🛠️</h3>
+### 🛠️ Más de **500 recursos** relacionados con **DevOps**, **Web Developers**, **Formación**, **Inteligencia Artificial**, **Productividad**, **Ciberseguridad**, **Protección de datos**  y **más tools** o webs de interes que pueden servir de manera práctica en el día a día. 🛠️
 
 - [https://recursos.ismaeltech.cc](https://recursos.ismaeltech.cc) ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
 
-</p>
 <br>
 
 ***
 
-<h3 align="left">🛠️ **IT-Tools**. Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h3>
-
-<p align="left">
+### 🛠️ **IT-Tools**. Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.
 
 - [https://it-tools.ismaeltech.cc](https://it-tools.ismaeltech.cc) ![](./Media/it-tools.png)
 
 - Del creador https://github.com/CorentinTh/it-tools
 
-</p>
 <br>
 
 ***
 
-<h3 align="left">🛠️ **Omnitools**. Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos.</h3>
-
-<p align="left">
+### 🛠️ **Omnitools**. Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos.
 
 - [https://tools.ismaeltech.cc/](https://tools.ismaeltech.cc/) ![](./Media/omni-tools-full.png)
 
 - Del creador https://github.com/iib0011/omni-tools
 
-</p>
 <br>
 
 ***
 
-<h3 align="left">🔒 **Enclosed**. Para los casos que necesites enviar datos personales o notas de manera encriptada.</h3>
-
-<p align="left">
+### 🔒 **Enclosed**. Para los casos que necesites enviar datos personales o notas de manera encriptada.
 
 - [https://enclosed.ismaeltech.cc/](https://enclosed.ismaeltech.cc/) ![](./Media/icon-light.png)
 
 - Del creador https://github.com/CorentinTh/enclosed
 
-</p>
 <br>
 
 ***
 
-<h3 align="left">🖼🖌 **Excalidraw**. Potente herramienta para crear presentaciones. Importa tus librerías y a crear.</h3>
-
-<p align="left">
+### 🖼🖌 **Excalidraw**. Potente herramienta para crear presentaciones. Importa tus librerías y a crear.
 
 - [https://draw.ismaeltech.cc/](https://draw.ismaeltech.cc/) ![](./Media/draw.svg)
 
 - Del creador https://github.com/excalidraw/excalidraw
 
-</p>
 <br>
 <br>
 
@@ -83,7 +69,8 @@
 
 <br>
 <br>
-<h3 align="left">🛠️ Tecnologías y herramientas</h3>
+
+### 🛠️ Tecnologías y herramientas
 
 ***
 
@@ -160,8 +147,7 @@
 
 ***
 
-<p align="left">
-<h3 aling=left>💻 Sobre mí</h3>
+### 💻 Sobre mí
 
 - 🌱 Actualmente aprendiendo sobre las nuevas tecnologías, todo lo relacionado con el mundo DevOps y siempre formándome para formar parte de nuevos proyectos.
 - 🤖 En estos momentos realizando un Bootcam sobre Inteligencia Artificial.
@@ -178,14 +164,14 @@
 
 ---
 
-Disponible para crear, colaborar y crecer en proyectos o ideas en las que pueda aportar mis conocimientos. 🤝 🌱 
+#### Disponible para crear, colaborar y crecer en proyectos o ideas en las que pueda aportar mis conocimientos. 🤝 🌱 
 
 <br>
 
-Gracias por visitar mi perfil. ✋ 
+#### Gracias por visitar mi perfil. ✋ 
 
 ---
-</p>
+
 
 ![](./Media/ISMAELCLOUD.jpeg)
 
@@ -193,7 +179,9 @@ Gracias por visitar mi perfil. ✋
 
 <br>
 <br>
-<h3 align="left">Support:</h3>
+
+### Support:
+
 <br>
 
 <p><a href="https://www.buymeacoffee.com/paypal.me/iperezmoron"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paypal.me/iperezmoron" /></a></p>
