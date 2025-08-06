@@ -1,17 +1,27 @@
 # Ismaeltech-sys
+
 ***
+
 <br>
 <h1 align="center">Hi 👋, Soy Ismael Pérez desde Andalucía</h1>
 <br>
+
 ***
+
 <br>
 <h3 align="center">Un apasionado de los microservicios, Docker y las nuevas tecnologías</h3>
 <br>
+
 ***
+
 ![](./Media/cabecera-linkedin.jpeg)
+
 ***
+
 <h2 align="center">A continuación algunos de mis proyectos que puede que te sirvan</h2>
+
 ***
+
 <br>
 <p align="left">
 <h3 align="left">Más de 500 recursos relacionados con DevOps, Web Developers, Formación, Inteligencia Artificial, Productividad, Ciberseguridad, Protección de datos  y más tools o webs de interes que pueden servir de manera práctica en el día a día</h3>
@@ -20,7 +30,9 @@
 
 </p>
 <br>
+
 ***
+
 <br>
 <h3 align="left">IT-Tools. Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.</h3>
 
@@ -32,7 +44,9 @@
 
 </p>
 <br>
+
 ***
+
 <br>
 <h3 align="left">Omnitools. Kit de herramientas para el día a día. Utilidades útiles para la gestión de imágenes, textos o datos.</h3>
 
@@ -44,7 +58,9 @@
 
 </p>
 <br>
+
 ***
+
 <br>
 <h3 align="left">Enclosed. Para los casos que necesites enviar datos personales o notas de manera encriptada.</h3>
 
@@ -56,7 +72,9 @@
 
 </p>
 <br>
+
 ***
+
 <br>
 <h3 align="left">Excalidraw. Potente herramienta para crear presentaciones. Importa tus librerías y a crear.</h3>
 
@@ -71,12 +89,17 @@
 <br>
 
 ***
+
 <h3 align="center">🛠🧠Seguiré añadiendo más proyectos🧠🧰</h3>  
+
 ***
+
 <br>
 <br>
 <h3 align="left">Lenguajes y Tools:</h3>
+
 ***
+
 <br>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -141,11 +164,15 @@
   </a>
 </p>
 <br>
+
 ***
+
 <br>
 
 <h3 align="left">Conecta a través de:</h3>
+
 ***
+
 <p align="left">
 <a href="//www.linkedin.com/in/ismael-perez-moron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-perez-moron/" height="30" width="40" /></a>
 
@@ -156,12 +183,13 @@
 <br>
 - 📄 Conoce mas sobre mi experiencia [https://cv.ismaeltech.cc](https://cv.ismaeltech.cc)
 <br>
-- 📫 ¿Colaboramos?.<br>
-      **hola@ismaeltech.cc** ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
-<br>
-      **https://cv.ismaeltech.cc** ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
-<br>
-      **https://www.linkedin.com/in/ismael-perez-moron/** ![](./Media/linked.svg)
+- 📫 ¿Colaboramos?.
+
+      hola@ismaeltech.cc  ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
+
+      https://cv.ismaeltech.cc  ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
+
+      https://www.linkedin.com/in/ismael-perez-moron/  ![](./Media/linked.svg)
 
 <br>
 <br>
@@ -183,6 +211,7 @@ Gracias por visitar mi perfil.
 ![](./Media/ISMAELCLOUD.jpeg)
 
 ***
+
 <br>
 <br>
 <h3 align="left">Support:</h3>
