@@ -168,12 +168,12 @@
 
 <br>
 
-<h3 align="left">Conecta a través de:</h3>
+<h3 align="left">Conecta a través de:<a href="//www.linkedin.com/in/ismael-perez-moron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-perez-moron/" height="30" width="40" /></a></h3>
 
 ***
 
 <p align="left">
-<a href="//www.linkedin.com/in/ismael-perez-moron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-perez-moron/" height="30" width="40" /></a>
+
 
 <br>
 <br>
