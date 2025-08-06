@@ -177,6 +177,7 @@
 <a href="//www.linkedin.com/in/ismael-perez-moron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-perez-moron/" height="30" width="40" /></a>
 
 <br>
+<br>
 - 🌱 Actualmente aprendiendo **sobre las nuevas tecnologías, todo lo relacionado con el mundo DevOps y siempre formándome para formar parte de nuevos proyectos**
 <br>
 - 👨‍💻 Todos mis proyectos están disponibles en [https://cv.ismaeltech.cc](https://cv.ismaeltech.cc)
@@ -185,11 +186,11 @@
 <br>
 - 📫 ¿Colaboramos?.
 
-      hola@ismaeltech.cc  ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
+      hola@ismaeltech.cc  
 
-      https://cv.ismaeltech.cc  ![](./Media/LOGOISMAELTECH%2040x40.jpeg)
+      https://cv.ismaeltech.cc  
 
-      https://www.linkedin.com/in/ismael-perez-moron/  ![](./Media/linked.svg)
+      https://www.linkedin.com/in/ismael-perez-moron/ 
 
 <br>
 <br>
