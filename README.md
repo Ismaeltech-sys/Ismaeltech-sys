@@ -70,7 +70,7 @@
 <br>
 <br>
 
-### 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 ***
 
@@ -147,7 +147,7 @@
 
 ***
 
-### 💻 Sobre mí
+## 💻 Sobre mí
 
 - 🌱 Actualmente aprendiendo sobre las nuevas tecnologías, todo lo relacionado con el mundo DevOps y siempre formándome para formar parte de nuevos proyectos.
 - 🤖 En estos momentos realizando un Bootcam sobre Inteligencia Artificial.
@@ -164,11 +164,9 @@
 
 ---
 
-#### Disponible para crear, colaborar y crecer en proyectos o ideas en las que pueda aportar mis conocimientos. 🤝 🌱 
+### Disponible para crear, colaborar y crecer en proyectos o ideas en las que pueda aportar mis conocimientos. 🤝 🌱 
 
-<br>
-
-#### Gracias por visitar mi perfil. ✋ 
+### Gracias por visitar mi perfil. ✋ 
 
 ---
 
@@ -180,7 +178,7 @@
 <br>
 <br>
 
-### Support:
+## Support:
 
 <br>
 
