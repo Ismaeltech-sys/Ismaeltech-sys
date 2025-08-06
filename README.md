@@ -1,13 +1,17 @@
 # Ismaeltech-sys
 ----------------
 <h1 align="center">Hi 👋, Soy Ismael Pérez desde Andalucía</h1>
+
 ***
 <h3 align="center">Un apasionado de los microservicios, Docker y las nuevas tecnologías</h3>
+
 ***
+
 ![](./Media/cabecera-linkedin.jpeg)
 
 ***
 <h2 align="center">A continuación algunos de mis proyectos que puede que te sirvan</h2>
+
 ***
 <p align="left">
 <h3 align="left">Más de 500 recursos relacionados con DevOps, Web Developers, Formación, Inteligencia Artificial, Productividad, Ciberseguridad, Protección de datos  y más tools o webs de interes que pueden servir de manera práctica en el día a día</h3>
