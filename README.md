@@ -1,11 +1,3 @@
-<p aling=center>
-
-# Ismaeltech-sys
-
-----------------
-
-</p>
-
 <h1 align="center">Hi 👋, Soy Ismael Pérez desde Andalucía</h1>
 
 ***
