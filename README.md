@@ -76,20 +76,71 @@
 
 <br>
 <p align="left">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/html5.svg" alt="html" width="40" height="40"/>
+</a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/css3.svg" alt="css" width="40" height="40"/>
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/javascript.svg" alt="javascript" width="40" height="40"/>
+ </a>
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/php.svg" alt="php" width="40" height="40"/>
+ </a>
+ <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/phpmyadmin.svg" alt="phpmyadmin" width="40" height="40"/>
+ </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/mysql.svg" alt="mysql" width="40" height="40"/>
+ </a>
+ <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/joomla.svg" alt="joomla" width="40" height="40"/>
+ </a>
+ <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/wordpress.svg" alt="wordpress" width="40" height="40"/>
+ </a>
+ <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/virtualbox.svg" alt="virtualbox" width="40" height="40"/>
+ </a>
+ <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/kali-linux.svg" alt="kalilinux" width="40" height="40"/>
+ </a>
+ <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/nmap.svg" alt="nmap" width="40" height="40"/>
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/markdown.svg" alt="markdown" width="40" height="40"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/gnubash.svg" alt="bash" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/yaml.svg" alt="yaml" width="40" height="40"/>
   </a>
-  <a href="https://it-tools.tech/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools.svg" alt="it-tools" width="40" height="40"/>
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/json.svg" alt="json" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/powershell.svg" alt="powershell" width="40" height="40"/>
   </a>
   <a href="https://yaml.org/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/yaml-file-icon.svg" alt="yaml" width="40" height="40"/>
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/json.svg" alt="JSON" width="40" height="40"/>
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" alt="apache" width="40" height="40"/>
+  </a>
+  <a href="https://nginxproxymanager.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" alt="nginx proxy manager" width="40" height="40"/>
+  </a>
+  <a href="https://it-tools.tech/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/it-tools.svg" alt="it-tools" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
     <img src="https://worldvectorlogo.com/logos/portainer.svg" alt="portainer" width="40" height="40"/>
@@ -99,15 +150,6 @@
   </a>
   <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" alt="wireguard" width="40" height="40"/>
-  </a>
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="debian" width="40" height="40"/>
-  </a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" alt="apache" width="40" height="40"/>
-  </a>
-  <a href="https://nginxproxymanager.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" alt="nginx proxy manager" width="40" height="40"/>
   </a>
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
@@ -126,6 +168,9 @@
   </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:ansible.svg" alt="Ansible" width="40" height="40"/>
+  </a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="debian" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/>
