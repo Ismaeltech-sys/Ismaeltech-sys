@@ -63,7 +63,17 @@
 
 ***
 
-<h4 align="center">🛠🧠 Seguiré añadiendo más herramientas y proyectos 🧠🧰</h4>  
+### 🧑‍🍳 Mealie**. Recetas rápidas. Servidor para almacenar tus recetas.
+
+- [https://cook.ismaeltech.cc/](https://cook.ismaeltech.cc/) ![](/Media/mealie.png)
+
+
+<br>
+<br>
+
+***
+
+<h4 align="center">🛠🧠 Seguiré añadiendo más ideas, herramientas y proyectos 🧠🧰</h4>  
 
 ***
 
@@ -76,9 +86,42 @@
 
 <br>
 <p align="left">
+  <a href="https://distrosea.com/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/skill-icons:linux-light.svg" alt="debian" width="40" height="40"/>
+  </a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="debian" width="40" height="40"/>
+  </a>
+ <a href="https://www.openmediavault.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/NX211/homer-icons/blob/master/png/openmediavault.png" alt="html" width="40" height="40"/>
+ </a>
+ <a href="https://nextcloud.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/NX211/homer-icons/blob/master/png/nextcloud.png" alt="html" width="40" height="40"/>
+ </a>
+ <a href="https://freefilesync.org/" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/1381/PNG/512/freefilesync_93716.png" alt="html" width="40" height="40"/>
+ </a>
+ <a href="https://duplicati.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/NX211/homer-icons/raw/master/png/duplicati.png" alt="html" width="40" height="40"/>
+ </a>
+ <a href="https://pi-hole.net/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/pi-hole.svg" alt="html" width="40" height="40"/>
+ </a>
+ <a href="https://filebrowser.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/NX211/homer-icons/raw/master/png/filebrowser.png" alt="html" width="40" height="40"/>
+ </a>
+ <a href="https://www.mediawiki.org/wiki/MediaWiki/es" target="_blank" rel="noreferrer">
+    <img src="https://github.com/NX211/homer-icons/raw/master/png/mediawiki.png" alt="html" width="40" height="40"/>
+ </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" alt="markdown" width="40" height="40"/>
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/skill-icons:markdown-light.svg" alt="markdown" width="40" height="40"/>
+  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" alt="html" width="40" height="40"/>
-</a>
+ </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" alt="css" width="40" height="40"/>
  </a>
@@ -91,6 +134,9 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="mysql" width="40" height="40"/>
  </a>
+ <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" alt="apache" width="40" height="40"/>
+ </a>
  <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/joomla.svg" alt="joomla" width="40" height="40"/>
  </a>
@@ -98,16 +144,13 @@
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" width="40" height="40"/>
  </a>
  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" alt="virtualbox" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
  </a>
  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/skill-icons:kali-dark.svg" alt="kalilinux" width="40" height="40"/>
  </a>
  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/nmap.svg" alt="nmap" width="40" height="40"/>
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/skill-icons:markdown-light.svg" alt="markdown" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/eye.svg" alt="nmap" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/skill-icons:bash-light.svg" alt="bash" width="40" height="40"/>
@@ -116,13 +159,16 @@
     <img src="https://s2.svgbox.net/files.svg?ic=light-yaml" alt="yaml" width="40" height="40"/>
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/json.svg" alt="json" width="40" height="40"/>
+    <img src="https://api.iconify.design/logos:json.svg" alt="json" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" alt="json" width="40" height="40"/>
+  </a>
+  <a href="https://lmstudio.ai/" target="_blank" rel="noreferrer">
+    <img src="https://app.unpkg.com/@lobehub/icons-static-svg@1.61.0/files/icons/lmstudio.svg" alt="json" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/skill-icons:powershell-light.svg" alt="powershell" width="40" height="40"/>
-  </a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" alt="apache" width="40" height="40"/>
   </a>
   <a href="https://nginxproxymanager.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" alt="nginx proxy manager" width="40" height="40"/>
@@ -151,17 +197,17 @@
   <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" alt="wazuh" width="40" height="40"/>
   </a>
+  <a href="https://github.com/google/cadvisor/releases" target="_blank" rel="noreferrer">
+    <img src="https://github.com/NX211/homer-icons/raw/master/png/cadvisor.png" alt="wazuh" width="40" height="40"/>
+  </a>
+  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/vscode-icons:file-type-autohotkey.svg" alt="nmap" width="40" height="40"/>
+  </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:terraform-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:ansible.svg" alt="Ansible" width="40" height="40"/>
-  </a>
-  <a href="https://distrosea.com/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/skill-icons:linux-light.svg" alt="debian" width="40" height="40"/>
-  </a>
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="debian" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/es-es/power-automate/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:microsoft-icon.svg" alt="Microsoft Power Automate" width="40" height="40"/>
@@ -175,6 +221,9 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/skill-icons:aws-dark.svg" alt="aws" width="40" height="40"/>
   </a>
+  <a href="https://draw.ismaeltech.cc/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/vscode-icons:file-type-excalidraw.svg" alt="html" width="40" height="40"/>
+  </a>
 </p>
 <br>
 
@@ -186,7 +235,7 @@
 
 ***
 
-## 💻 Sobre mí
+## 💻 Sobre mí 👁️
 
 - 🌱 Actualmente aprendiendo sobre las nuevas tecnologías, todo lo relacionado con el mundo DevOps y siempre formándome para formar parte de nuevos proyectos.
 - 🤖 En estos momentos realizando un Bootcam sobre Inteligencia Artificial.
