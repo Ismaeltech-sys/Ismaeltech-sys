@@ -63,7 +63,7 @@
 
 ***
 
-### 🧑‍🍳 Mealie**. Recetas rápidas. Servidor para almacenar tus recetas.
+### 🧑‍🍳 **Mealie**. Recetas rápidas. Servidor para almacenar tus recetas.
 
 - [https://cook.ismaeltech.cc/](https://cook.ismaeltech.cc/) ![](/Media/mealie.png)
 
@@ -165,7 +165,7 @@
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" alt="json" width="40" height="40"/>
   </a>
   <a href="https://lmstudio.ai/" target="_blank" rel="noreferrer">
-    <img src="https://app.unpkg.com/@lobehub/icons-static-svg@1.61.0/files/icons/lmstudio.svg" alt="json" width="40" height="40"/>
+    <img src="https://app.unpkg.com/@lobehub/icons-static-svg@1.61.0/files/icons/lmstudio.svg" alt="lmstudio" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/skill-icons:powershell-light.svg" alt="powershell" width="40" height="40"/>
