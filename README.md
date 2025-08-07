@@ -77,58 +77,49 @@
 <br>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/html5.svg" alt="html" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" alt="html" width="40" height="40"/>
 </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/css3.svg" alt="css" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" alt="css" width="40" height="40"/>
  </a>
  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/php.svg" alt="php" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php-light.svg" alt="php" width="40" height="40"/>
  </a>
  <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/phpmyadmin.svg" alt="phpmyadmin" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/phpmyadmin.svg" alt="phpmyadmin" width="40" height="40"/>
  </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/mysql.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="mysql" width="40" height="40"/>
  </a>
  <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/joomla.svg" alt="joomla" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/joomla.svg" alt="joomla" width="40" height="40"/>
  </a>
  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/wordpress.svg" alt="wordpress" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" width="40" height="40"/>
  </a>
  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/virtualbox.svg" alt="virtualbox" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" alt="virtualbox" width="40" height="40"/>
  </a>
  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/kali-linux.svg" alt="kalilinux" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:kali-dark.svg" alt="kalilinux" width="40" height="40"/>
  </a>
  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/nmap.svg" alt="nmap" width="40" height="40"/>
   </a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/markdown.svg" alt="markdown" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:markdown-light.svg" alt="markdown" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/gnubash.svg" alt="bash" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:bash-light.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/yaml.svg" alt="yaml" width="40" height="40"/>
+    <img src="https://s2.svgbox.net/files.svg?ic=light-yaml" alt="yaml" width="40" height="40"/>
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/json.svg" alt="json" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/powershell.svg" alt="powershell" width="40" height="40"/>
-  </a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/yaml-file-icon.svg" alt="yaml" width="40" height="40"/>
-  </a>
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/json.svg" alt="JSON" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:powershell-light.svg" alt="powershell" width="40" height="40"/>
   </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" alt="apache" width="40" height="40"/>
@@ -160,26 +151,29 @@
   <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" alt="wazuh" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/es-es/power-automate/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:microsoft-icon.svg" alt="Microsoft Power Automate" width="40" height="40"/>
-  </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:terraform-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:ansible.svg" alt="Ansible" width="40" height="40"/>
   </a>
+  <a href="https://distrosea.com/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/skill-icons:linux-light.svg" alt="debian" width="40" height="40"/>
+  </a>
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="debian" width="40" height="40"/>
   </a>
+  <a href="https://learn.microsoft.com/es-es/power-automate/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:microsoft-icon.svg" alt="Microsoft Power Automate" width="40" height="40"/>
+  </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:azure-dark.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://www.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="google" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google.svg" alt="google" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:aws-dark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
 <br>
