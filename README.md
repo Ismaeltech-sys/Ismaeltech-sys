@@ -187,6 +187,10 @@
   </a>
   <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" alt="wireguard" width="40" height="40"/>
+    </a>
+  <a href="https://nicolargo.github.io/glances/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/glances-light.svg" alt="grafana" width="40" height="40"/>
+  </a>
   </a>
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
