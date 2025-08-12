@@ -164,6 +164,15 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" alt="json" width="40" height="40"/>
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" alt="json" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/skill-icons:githubactions-light.svg" alt="json" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="json" width="40" height="40"/>
+  </a>
   <a href="https://lmstudio.ai/" target="_blank" rel="noreferrer">
     <img src="https://unpkg.com/@lobehub/icons-static-svg@1.61.0/icons/lmstudio.svg" alt="lmstudio" width="40" height="40"/>
   </a>
