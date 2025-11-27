@@ -189,7 +189,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
-    <img src="https://worldvectorlogo.com/logos/portainer.svg" alt="portainer" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/portainer-alt.webp" alt="portainer" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
