@@ -22,6 +22,26 @@
 
 ***
 
+### :brain: :gear: :robot: :rocket: **PROMPTS**. Prompt Engineering, plantillas genéricas y plantillas específicas a modo de ejemplo.
+
+Mejora como hablar con un LLM.
+
+- :point_right: [Mejora cómo hablar con los LLMs](https://tablero.ismaeltech.cc/b/LofbzbZvcpJ6KXiXt/prompts-engineering-mejora-como-hablar-con-la-ia-por-ismael-perez-moron)
+
+Plantillas genéricas
+
+- :point_right: [Plantillas de prompts genéricas](https://tablero.ismaeltech.cc/b/Hd7drFv9qzRoxBpPG/plantillas-de-prompts-por-ismael-perez-moron)
+
+Plantillas específicas
+
+- :point_right: [Plantillas de prompts específicas](https://tablero.ismaeltech.cc/b/iHvdGRpZTNHKPxF28/plantillas-prompts-especificas-por-ismael-perez-moron)
+
+
+<br>
+<br>
+
+***
+
 ### 🛠️ **IT-Tools**. Una de las herramientas mas potentes para DevOps, en un solo sitio. Muy práctico.
 
 - [https://it-tools.ismaeltech.cc](https://it-tools.ismaeltech.cc) ![](./Media/it-tools.png)
