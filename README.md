@@ -259,6 +259,9 @@ Plantillas específicas
   <a href="https://draw.ismaeltech.cc/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/vscode-icons:file-type-excalidraw.svg" alt="html" width="40" height="40"/>
   </a>
+  <a href="https://github.com/Ismaeltech-sys/workflows-n8n" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/n8n.webp" alt="html" width="40" height="40"/>
+  </a>
 </p>
 <br>
 
