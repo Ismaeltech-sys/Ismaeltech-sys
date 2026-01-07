@@ -93,6 +93,17 @@ Plantillas específicas
 
 ***
 
+### Repositorio sobre **Inteligencia Artificial** , **Automatizaciones** más recursos y herramientas sobre **n8n**
+
+| n8n workflows e Inteligencia Artificial | Repositorio |
+|-------------|----------------|
+| Para visitar el repositorio puedes hacerlo desde ====================================> | <a href="https://github.com/Ismaeltech-sys/workflows-n8n" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/n8n.webp" alt="n8n" width="70" height="40"/></a> | 
+
+<br>
+<br>
+
+***
+
 <h4 align="center">🛠🧠 Seguiré añadiendo más ideas, herramientas y proyectos 🧠🧰</h4>  
 
 ***
